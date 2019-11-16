@@ -54,4 +54,6 @@
 
 5.背后的一个USB3.0口可用，但速度未测试
 
+6.亮度可调节但似乎不能保存，亮度调节快捷键时好时坏
+
 参考教程：https://github.com/Kaijun/Acer-V5-573G-Hackintosh
