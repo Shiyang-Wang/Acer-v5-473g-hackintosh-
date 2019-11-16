@@ -1,10 +1,11 @@
 # Acer-v5-473g-Mojave-hackintosh
 
+
 安装之间你需要：1 更新bios至2.3
 
                官网下载，windows下双击更新
                
-             2.更新 Intel Management Engine Firmware 
+              2.更新 Intel Management Engine Firmware 
              
                #教程链接：https://github.com/Kaijun/Acer-V5-573G-Hackintosh/issues/6
                
